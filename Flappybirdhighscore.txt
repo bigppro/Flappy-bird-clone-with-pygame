@@ -1,1 +1,5 @@
-{"5":"Flappy Man"}
+{"5":"Flappy Man",
+"10": "Flappy Boy",
+"12": "Flappy God",
+"3": "Flappy Baby",
+"1": "Flappy Noob"}
